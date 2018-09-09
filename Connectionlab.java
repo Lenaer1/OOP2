@@ -5,11 +5,11 @@
  */
 package connectionlab;
 
-import java.util.Scanner;
+import java.util.Scanner;//you could import the whole util class by using *
 
 /**
  *
- * @author HP
+ * @author Lenear
  */
 public class Connectionlab {
 
